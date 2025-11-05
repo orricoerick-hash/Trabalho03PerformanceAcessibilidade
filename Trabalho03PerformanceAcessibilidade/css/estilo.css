@@ -147,7 +147,7 @@ section p, section h2 {
 /* imagem ao lado do formulário */
 .img-formulario {
   width: 100%;
-  height: 400px;
+  height: 500px;
   background: url("../img/img-formulario.jpeg") center/cover no-repeat;
   border-radius: 10px;
 }
@@ -256,4 +256,5 @@ form input {
 
 .footer-content a:hover {
     color: #ccc;
+
 }
